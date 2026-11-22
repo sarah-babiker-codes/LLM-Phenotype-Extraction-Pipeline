@@ -1,7 +1,7 @@
 # MSc Dissertation: LLM Phenotype Extraction Pipeline
 
 Evaluation of a reasoning LLM (DeepSeek-R1-Distill-Qwen-32B) for extracting
-clinical phenotypes from CardiffCOGS EHR notes, validated against clinical
+clinical phenotypes from CardiffCOGS clinical vignette notes, validated against clinical
 and genetic gold standards.
 
 Two phenotypes are covered: clozapine use (a proxy for treatment-resistant
